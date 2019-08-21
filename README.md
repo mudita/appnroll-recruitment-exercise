@@ -65,8 +65,8 @@ the project locally.
 
 #### Delivery
 
-The outcome of your work should be provided as a GitHub repository. You can additionally host the app (eg. on the
-GitHub Pages) and provide the link in the project's description. 
+The outcome of your work should be provided as a GitHub repository. Make sure the history is clean and shows of
+your git skill. You can additionally host the app (eg. on the GitHub Pages) and provide the link in the project's description. 
 
 ## FAQ
 
