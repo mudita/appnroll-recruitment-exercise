@@ -57,6 +57,9 @@ You should implement the design provided in [the design guide](https://appnroll.
 Font is [Quicksand](https://fonts.google.com/specimen/Quicksand). Other assets are included in the guide or you can download
 them by visiting the [`design`](https://github.com/Appnroll/appnroll-recruitment-exercise/tree/master/design) folder in this repo.
 
+You can use a native select control (just style the box), but if you feel courageous to implement a custom solution,
+feel free to do so.
+
 #### Technology
 
 You must use React to complete the task. This is a base of our stack so we need to know how proficient you are with
