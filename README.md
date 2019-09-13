@@ -22,6 +22,9 @@ When it comes to testing, it's [Jest](https://jestjs.io/), of course. If a proje
 
 ## Exercise
 
+### Preview
+![Exercise preview](https://github.com/Appnroll/appnroll-recruitment-exercise/raw/master/design/preview.png?raw=true)
+
 ### About the app
 
 You're going to implement a simple web app displaying App'n'roll's public repositories (maye you'll find something interesting there?).
@@ -49,7 +52,10 @@ It should be stored locally in the user's browser.
 
 #### Displaying repos
 
-You should implement the design provided in **[TODO: waiting for design]**.
+You should implement the design provided in [the design guide](https://appnroll.github.io/appnroll-recruitment-exercise/design/).
+
+Font is [Quicksand](https://fonts.google.com/specimen/Quicksand). Other assets are included in the guide or you can download
+them by visiting the [`design`](https://github.com/Appnroll/appnroll-recruitment-exercise/tree/master/design) folder in this repo.
 
 #### Technology
 
