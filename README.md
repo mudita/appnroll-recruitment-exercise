@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://appnroll.com">
-    <img alt="App'n'roll" src="https://www.appnroll.com/wp-content/themes/appnroll/public/images/logo-rev.svg" width="60" />
+    <img alt="App'n'roll" src="hdata:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAAB6CAMAAAD9JD+2AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAANlBMVEUAAADiBQviBQviBQviBQviBQviBQviBQviBQviBQviBQviBQviBQviBQviBQviBQviBQsAAABEbq6SAAAAEHRSTlMAgK8Q70CPzzC/IGBQ33CfryrF1gAAAAFiS0dEAIgFHUgAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfjDBIKEirNPI1KAAABlklEQVRo3u3a6Y6EIAwAYHE7MzLsSt//addrwAORo43ZbPuTxC9N1BYrTbMP1X41HKEQHjwu4pMh5dHFV8fjIiomF/Wbx0UwPC5iy+SiuOKKW+vGa2C5q6OdpsJF+OZxY52mzsWfs+ZY6Q4pM7knzbHeDTdHCjcEiyvuXa451CnVUbgK96VVBy4tcfd1SgfKQJG7q1OjAT2Ju0lwNrZ75FIXsd8bm5TLXZ+gM1Y3tMJ1ndEb/qusxkV9bogrrri57vvhI7DWlbppIe7NrsoMk+hiZqQ+v+KKK+4tbs5YXdz/4hrt43PFau1Z6hLtd8Sd1wyHC8Pu0NC7MG06DbULy17W0rrgPvstpQuraYKlc2EzRbFULuyGM5bGhcOYylK4EJh+2XoXgoNqW+u20R8j5W48xP2bbs/kurKZ6ELykQab474yjmDYdDeH9fClm8c6+MrNZT/whZvPLnDcLWFnOOqWsRMcc0vZEY645WzTuD8WR1eRnEg6ujQhrrjrWPUm0rNYvtLXvGYRmJpdYHp2gjnYAc5hfwH5xt/3SdnQcQAAAABJRU5ErkJggg==" width="60" />
   </a>
 </p>
 <h1 align="center">
